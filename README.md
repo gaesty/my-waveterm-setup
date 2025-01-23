@@ -22,3 +22,4 @@ To custom your install you can use the command :
   wsh editconfig widgets.json
 ```
 
+J'ai besoin de cmd plutot que pwsh car mon installation du terminal Windows contient l'autocompletion grâce à [Clink](https://github.com/chrisant996/clink) de chrisant996
